@@ -1,2 +1,7 @@
 node_modules
+<<<<<<< HEAD
 .env
+=======
+*.env
+pure-realtime-stock
+>>>>>>> 86fff76 (testing mongo with discord)
