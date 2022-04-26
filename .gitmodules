@@ -1,0 +1,3 @@
+[submodule "pure-realtime-stock"]
+	path = pure-realtime-stock
+	url = https://github.com/jackHedaya/pure-realtime-stock
